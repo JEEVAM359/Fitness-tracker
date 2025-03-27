@@ -55,7 +55,7 @@ function App() {
 
     const foodLinkStyle = {
         ...navLinkStyle,
-        color: "blue",
+        color: "orange",
         ':hover': {
             color: "blue"
         }
